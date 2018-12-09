@@ -1,6 +1,6 @@
 # MongoDB 数据库
 
-* [官网文档](https://www.mongodb.com/)
-
+* [官网](https://www.mongodb.com/)
+* [文档](https://docs.mongodb.com/)
 
 
